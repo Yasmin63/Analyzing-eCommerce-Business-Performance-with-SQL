@@ -21,23 +21,7 @@ The Entity Relationship Diagram (ERD) of Analizing eCommerce_Business_Performanc
 
 
 ## Annual Customer Activity Growth Analysis
-Average monthly active user (MAU) per year
-
-![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/66b7913e-b1e7-4eed-af21-f20ef866902a)
-
-Total new customers per Year
-
-![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/bd912f58-8c4b-4853-8ef0-23834cea3dd6)
-
-Total customers doing repeat order per year
-
-![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/184ae55a-3807-4713-a1ea-9751dfc98b1b)
-
-Average order frequency for every year
-
-![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/c8037fd7-dccb-42f9-af25-66ce1975d8b0)
-
-Combine the five data tables
+Combine data tables
 
 ![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/09dfc928-39b4-4c35-868a-215743d56b16)
 
@@ -60,23 +44,7 @@ Total new customers has increased every year. However, total customers who make 
 
 
 ## Annual Product Category Quality Analysis
-Revenue per year 
-
-![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/96bdb731-ba30-4c5a-99d0-d5bd9b4f8252)
-
-Total canceled orders per year
-
-![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/1c9ac1d1-057e-4963-a510-741f631eac73)
-
-Top categories that generate the most revenue per year 
-
-![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/4594b616-6d50-42fe-8087-67de01f88282)
-
-Categories that experienced the most canceled orders per year
-
-![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/5f3112e4-b395-4e42-844e-73892a44f8e7)
-
-Combine the five data tabels
+Combine data tabels
 
 ![image](https://github.com/Yasmin63/Analyzing-eCommerce-Business-Performance-with-SQL/assets/146631940/2d7d06d4-793d-4cca-b668-d18d9b3a70dc)
 
@@ -125,35 +93,3 @@ Interpretation:
 Analyzing the performance of each payment type will provide insights for building partnerships with payment method providers.
 The most widely used payment methods over the past 3 years are credit cards, boleto, vouchers, and debit cards. The highest increase in debit card usage occurred from 2017 to 2018, while voucher usage actually decreased from 2017 to 2018.
 Credit card payment methods usually offer many benefits such as rewards and discounts so customers are more interested in making payments with this method.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
