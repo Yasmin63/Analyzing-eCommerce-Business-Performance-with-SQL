@@ -1,1 +1,4 @@
 # Analyzing-eCommerce-Business-Performance-with-SQL
+
+## Background Project
+“Inacompanymeasuringbusinessperformanceisveryimportanttracking,monitoring,andassessingsuccessorfailureofvariousbusinessprocesses.Therefore,inthispaperwillanalyzethebusinessperformanceforaneCommercecompany,takingintoaccountsomebusinessmetricssuchascustomersgrowth,productqualityandpaymenttype.”
